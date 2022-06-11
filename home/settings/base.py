@@ -69,10 +69,6 @@ ACCOUNT_EMAIL_REQUIRED = False
 ACCOUNT_AUTHENTICATION_METHOD = 'username'
 ACCOUNT_EMAIL_VERIFICATION = 'none'
 
-CORS_ORIGIN_WHITELIST = [
-    "http://lit-wildwood-37321.herokuapp.com",
-    "https://lit-wildwood-37321.herokuapp.com"
-]
 
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'
