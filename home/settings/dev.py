@@ -16,6 +16,6 @@ DATABASES = {
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
-    'http://lit-wildwood-37321.herokuapp.com',
-    'https://lit-wildwood-37321.herokuapp.com',
+    'http://zigostore.herokuapp.com',
+    'https://zigostore.herokuapp.com',
 )
